@@ -1,0 +1,42 @@
+/*TEAM*/
+
+Desenvolvedor: Lucas Molnar
+Email: lucas.molnar@ctrlzeta.com.br
+GitHub: github.com/lucasmolnar
+From: Itapevi, São Paulo, Brasil
+
+Desenvolvedor: Jessé Souza
+Email: jesse.souza@ctrlzeta.com.br
+Twitter: @pazuza_
+GitHub: https://github.com/pazuza
+From: Osasco, São Paulo, Brasil
+
+Desenvolvedor: Breno
+Email: breno.augusto@ctrlzeta.com.br
+Twitter: @brenoaugustosp
+Git: github.com/brenoafs
+From: Osasco, São Paulo, Brasil
+
+Desenvolvedor: Victoria Vilas Boas
+Email: victoria.vilasboas@ctrlzeta.com
+Twitter: @victoriaovilas
+https://github.com/victoriavilasb
+From: Belo Horizonte, Minas Gerais, Brasil
+
+Designer: Luigi
+Email: luigieiro@ctrlzeta.com
+Twitter: @luigieiro
+Git: https://github.com/guiluigi/
+From: São Paulo, São Paulo, Brasil
+
+Designer: Daniela Jardim 
+Email: daniela.alves@ctrlzeta.com.br
+Twitter: @danijardim00
+Git: https://github.com/Dani-jardim
+From: Osasco, São Paulo, Brasil
+
+/*SITE*/
+
+Última atualização: 26/02/2017
+Linguagens: PHP, javascript
+Components: Projeto para gerenciamento de estoque, desenvolvido no hackathon promovido pela revista ctrlzeta.
