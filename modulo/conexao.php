@@ -1,10 +1,9 @@
 <?php
-$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+para $servername = "dreamteam.mysql.uhserver.com";
+$username = "dreamteam";
+$password = "L30B[j5}10cqa";
+$dbname = "dreamteam";
 
-$server = $url["host"];
-$username = $url["user"];
-$password = $url["pass"];
-$db = substr($url["path"], 1);
+$conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
 
-$conn = new mysqli($server, $username, $password, $db);
 ?>
