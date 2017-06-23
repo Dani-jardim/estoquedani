@@ -13,3 +13,5 @@
 		echo("<script> alert('Login não encontrado, tente novamente.'); location.href='../index.php';</script>");
 	}
 ?>
+
+hjkhjkhjhk;
