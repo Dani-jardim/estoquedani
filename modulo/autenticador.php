@@ -5,7 +5,7 @@
 
 	$consulta = $conn->query("SELECT count(*) as qtd, codigo FROM dreamteam.tblogin where email='".$_POST['txtemail']."' and senha='".$_POST['txtsenha']."';");
 	$linha = $consulta->fetch(PDO::FETCH_ASSOC);
-	
+	var_dump($consulta);
 	if($linha['qtd']==1){
 		$_SESSION['codigo'] = $linha['codigo'];
 		header('location: ../admProduto.php'); 
